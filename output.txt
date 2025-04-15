@@ -1,201 +1,300 @@
-....................................................................................................
-Test complete! Results saved to output.txt
-----------------------
-Testing city ID 2: 
---------------------------
-Testing city ID 3: 
---------------------------
-Testing city ID 4: 
---------------------------
-Testing city ID 5: 
---------------------------
-Testing city ID 6: 
---------------------------
-Testing city ID 7: 
---------------------------
-Testing city ID 8: 
---------------------------
-Testing city ID 9: 
---------------------------
-Testing city ID 10: 
---------------------------
-Testing city ID 11: 
---------------------------
-Testing city ID 12: 
---------------------------
-Testing city ID 13: 
---------------------------
-Testing city ID 14: 
---------------------------
-Testing city ID 15: 
---------------------------
-Testing city ID 16: 
---------------------------
-Testing city ID 17: 
---------------------------
-Testing city ID 18: 
---------------------------
-Testing city ID 19: 
---------------------------
-Testing city ID 20: 
---------------------------
-Testing city ID 21: 
---------------------------
-Testing city ID 22: 
---------------------------
-Testing city ID 23: 
---------------------------
-Testing city ID 24: 
---------------------------
-Testing city ID 25: 
---------------------------
-Testing city ID 26: 
---------------------------
-Testing city ID 27: 
---------------------------
-Testing city ID 28: 
---------------------------
-Testing city ID 29: 
---------------------------
-Testing city ID 30: 
---------------------------
-Testing city ID 31: 
---------------------------
-Testing city ID 32: 
---------------------------
-Testing city ID 33: 
---------------------------
-Testing city ID 34: 
---------------------------
-Testing city ID 35: 
---------------------------
-Testing city ID 36: 
---------------------------
-Testing city ID 37: 
---------------------------
-Testing city ID 38: 
---------------------------
-Testing city ID 39: 
---------------------------
-Testing city ID 40: 
---------------------------
-Testing city ID 41: 
---------------------------
-Testing city ID 42: 
---------------------------
-Testing city ID 43: 
---------------------------
-Testing city ID 44: 
---------------------------
-Testing city ID 45: 
---------------------------
-Testing city ID 46: 
---------------------------
-Testing city ID 47: 
---------------------------
-Testing city ID 48: 
---------------------------
-Testing city ID 49: 
---------------------------
-Testing city ID 50: 
---------------------------
-Testing city ID 51: 
---------------------------
-Testing city ID 52: 
---------------------------
-Testing city ID 53: 
---------------------------
-Testing city ID 54: 
---------------------------
-Testing city ID 55: 
---------------------------
-Testing city ID 56: 
---------------------------
-Testing city ID 57: 
---------------------------
-Testing city ID 58: 
---------------------------
-Testing city ID 59: 
---------------------------
-Testing city ID 60: 
---------------------------
-Testing city ID 61: 
---------------------------
-Testing city ID 62: 
---------------------------
-Testing city ID 63: 
---------------------------
-Testing city ID 64: 
---------------------------
-Testing city ID 65: 
---------------------------
-Testing city ID 66: 
---------------------------
-Testing city ID 67: 
---------------------------
-Testing city ID 68: 
---------------------------
-Testing city ID 69: 
---------------------------
-Testing city ID 70: 
---------------------------
-Testing city ID 71: 
---------------------------
-Testing city ID 72: 
---------------------------
-Testing city ID 73: 
---------------------------
-Testing city ID 74: 
---------------------------
-Testing city ID 75: 
---------------------------
-Testing city ID 76: 
---------------------------
-Testing city ID 77: 
---------------------------
-Testing city ID 78: 
---------------------------
-Testing city ID 79: 
---------------------------
-Testing city ID 80: 
---------------------------
-Testing city ID 81: 
---------------------------
-Testing city ID 82: 
---------------------------
-Testing city ID 83: 
---------------------------
-Testing city ID 84: 
---------------------------
-Testing city ID 85: 
---------------------------
-Testing city ID 86: 
---------------------------
-Testing city ID 87: 
---------------------------
-Testing city ID 88: 
---------------------------
-Testing city ID 89: 
---------------------------
-Testing city ID 90: 
---------------------------
-Testing city ID 91: 
---------------------------
-Testing city ID 92: 
---------------------------
-Testing city ID 93: 
---------------------------
-Testing city ID 94: 
---------------------------
-Testing city ID 95: 
---------------------------
-Testing city ID 96: 
---------------------------
-Testing city ID 97: 
---------------------------
-Testing city ID 98: 
---------------------------
-Testing city ID 99: 
---------------------------
-Testing city ID 100: 
---------------------------
+Inside Nginx Lua script: Processing Order... Request from: 1
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 2
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 3
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 4
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 5
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 6
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 7
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 8
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 9
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 10
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 11
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 12
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 13
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 14
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 15
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 16
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 17
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 18
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 19
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 20
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 21
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 22
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 23
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 24
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 25
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 26
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 27
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 28
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 29
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 30
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 31
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 32
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 33
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 34
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 35
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 36
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 37
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 38
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 39
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 40
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 41
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 42
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 43
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 44
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 45
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 46
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 47
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 48
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 49
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 50
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 51
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 52
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 53
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 54
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 55
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 56
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 57
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 58
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 59
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 60
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 61
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 62
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 63
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 64
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 65
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 66
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 67
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 68
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 69
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 70
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 71
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 72
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 73
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 74
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 75
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 76
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 77
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 78
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 79
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 80
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 81
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 82
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 83
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 84
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 85
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 86
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 87
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 88
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 89
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 90
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 91
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 92
+Status: true
+Beverage Type: espresso
+Inside Nginx Lua script: Processing Order... Request from: 93
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 94
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 95
+Status: true
+Beverage Type: lemonade
+Inside Nginx Lua script: Processing Order... Request from: 96
+Status: true
+Beverage Type: cappuccino
+Inside Nginx Lua script: Processing Order... Request from: 97
+Status: true
+Beverage Type: soda
+Inside Nginx Lua script: Processing Order... Request from: 98
+Status: true
+Beverage Type: latte
+Inside Nginx Lua script: Processing Order... Request from: 99
+Status: true
+Beverage Type: ice tea
+Inside Nginx Lua script: Processing Order... Request from: 100
+Status: true
+Beverage Type: latte
