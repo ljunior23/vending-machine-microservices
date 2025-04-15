@@ -23,7 +23,7 @@ local OrderBeverageServiceClient = __TObject.new(__TClient, {
   __type = 'OrderBeverageServiceClient'
 })
 
-local PlaceOrder_args = __TObeject:new{
+local PlaceOrder_args = __TObject:new{
 	city
 }
 
@@ -196,5 +196,3 @@ function PlaceOrder_result:write(oprot)
   oprot:writeFieldStop()
   oprot:writeStructEnd()
 end
-
-return OrderBeverageServiceClient

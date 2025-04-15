@@ -1,0 +1,42 @@
+version: "3"
+services:
+  order-beverage-service:
+    image: ney24/vending-machine-microservices:v1.0
+    hostname: order-beverage-service
+    restart: always
+    entrypoint: OrderBeverageService
+
+  weather-service:
+    image: ney24/vending-machine-microservices:v1.0
+    hostname: weather-service
+    restart: always
+    entrypoint: WeatherService
+
+  beverage-preference-service:
+    image: ney24/vending-machine-microservices:v1.0
+    hostname: beverage-preference-service
+    restart: always
+    entrypoint: BeveragePreferenceService
+
+  nginx-thrift:
+    image: yg397/openresty-thrift:xenial
+    hostname: nginx-thrift
+    ports:
+      - 8080:8080
+    restart: always
+    command: >
+      /bin/bash -c "
+        echo 'TException = TException or {}' > /tmp/fix.lua;
+        cat /tmp/fix.lua > /gen-lua/vending_machine_ttypes.lua.new;
+        cat /gen-lua/vending_machine_ttypes.lua >> /gen-lua/vending_machine_ttypes.lua.new;
+        mv /gen-lua/vending_machine_ttypes.lua.new /gen-lua/vending_machine_ttypes.lua;
+        nginx -g 'daemon off;'
+      "
+    depends_on:
+      - weather-service
+      - beverage-preference-service
+      - order-beverage-service
+    volumes:
+      - ./nginx_reverse_proxy/lua-scripts:/usr/local/openresty/nginx/lua-scripts
+      - ./nginx_reverse_proxy/conf/nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
+      - ./gen-lua:/gen-lua
