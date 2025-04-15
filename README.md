@@ -20,7 +20,7 @@ Git
 Setup
 Clone the repository:
 bash
-git clone https://github.com/yourusername/vending-machine-microservices.git
+git clone https://github.com/ljunior23/vending-machine-microservices.git
 cd vending-machine-microservices
 
 Build and run the services:
@@ -61,7 +61,7 @@ Regenerate the service code
 Rebuild the Docker images
 Building Docker Images
 bash
-docker build -t yourusername/vending-machine-microservices:v1.0 .
+docker build -t ney24/vending-machine-microservices:v1.0 .
 
 Troubleshooting
 Common Issues
